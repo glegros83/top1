@@ -20,7 +20,7 @@ window.CATALOGUE = {
         { id: "pc",       emoji: "⚗️", name: "Physique-Chimie",   sub: "Matière, énergie, mouvements" },
         { id: "techno",   emoji: "⚙️", name: "Technologie",       sub: "Objets techniques, programmation" },
         { id: "anglais",  emoji: "💬", name: "Anglais",           sub: "Vocabulaire, grammaire, compréhension" },
-        { id: "lv2",      emoji: "🗣️", name: "LV2",               sub: "Deuxième langue vivante" },
+        { id: "espagnol", emoji: "🗣️", name: "Espagnol",          sub: "Vocabulaire, grammaire, compréhension" },
       ] },
   ],
 
